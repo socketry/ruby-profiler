@@ -1,0 +1,37 @@
+# Ruby Profiler
+
+A profiler state manager for Ruby fibers, designed for BPF/eBPF integration.
+
+[![Development Status](https://github.com/socketry/ruby-profiler/workflows/Test/badge.svg)](https://github.com/socketry/ruby-profiler/actions?workflow=Test)
+
+## Usage
+
+Please see the [project documentation](https://socketry.github.io/ruby-profiler/) for more details.
+
+  - [Getting Started](https://socketry.github.io/ruby-profiler/guides/getting-started/index) - This guide explains how to get started with `ruby-profiler`, a profiler state manager for Ruby fibers designed for BPF/eBPF integration.
+
+  - [BPF Integration Guide](https://socketry.github.io/ruby-profiler/guides/bpf-integration/index) - This guide explains how to integrate `ruby-profiler` with BPF/eBPF programs to read profiler state from Ruby fibers.
+
+## Releases
+
+Please see the [project releases](https://socketry.github.io/ruby-profiler/releases/index) for all releases.
+
+### Unreleased
+
+## Contributing
+
+We welcome contributions to this project.
+
+1.  Fork it.
+2.  Create your feature branch (`git checkout -b my-new-feature`).
+3.  Commit your changes (`git commit -am 'Add some feature'`).
+4.  Push to the branch (`git push origin my-new-feature`).
+5.  Create new Pull Request.
+
+### Developer Certificate of Origin
+
+In order to protect users of this project, we require all contributors to comply with the [Developer Certificate of Origin](https://developercertificate.org/). This ensures that all contributions are properly licensed and attributed.
+
+### Community Guidelines
+
+This project is best served by a collaborative and respectful environment. Treat each other professionally, respect differing viewpoints, and engage constructively. Harassment, discrimination, or harmful behavior is not tolerated. Communicate clearly, listen actively, and support one another. If any issues arise, please inform the project maintainers.

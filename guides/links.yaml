@@ -1,0 +1,12 @@
+# Guides index for ruby-profiler documentation
+# This file defines the order and metadata for documentation guides
+
+getting-started:
+  order: 1
+  title: Getting Started
+  description: This guide explains how to get started with ruby-profiler, a profiler state manager for Ruby fibers designed for BPF/eBPF integration.
+
+bpf-integration:
+  order: 2
+  title: BPF Integration
+  description: This guide explains how to integrate ruby-profiler with BPF/eBPF programs to read profiler state from Ruby fibers.
